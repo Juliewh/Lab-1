@@ -5,3 +5,9 @@
 '''bash
 touch script.bash
 '''
+
+2. Открываем файл в текстовом редакторе gedit
+
+'''bash
+gedit script.bash
+'''
