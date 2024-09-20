@@ -9,7 +9,7 @@ touch script.bash
 2. Открываем новый файл в текстовом редакторе `gedit`, выполняя в терминале
 
 ```bash
-gedit script bash
+gedit script.bash
 ```
 <img width="321" alt="image" src="https://github.com/user-attachments/assets/c5b8d7bc-c45f-421a-bad0-381b8450ece7">
 
